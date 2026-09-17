@@ -10,6 +10,8 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Table of Contents
 
+- [NEXUS-AI](https://nitrogen-plains-applied-denver.trycloudflare.com) - Autonomous agent marketplace with 20+ crypto skills.
+
 - [Awesome LLMOps](#awesome-llmops)
   - [Table of Contents](#table-of-contents)
   - [Model](#model)
